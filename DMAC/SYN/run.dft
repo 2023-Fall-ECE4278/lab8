@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ../../../scripts/common.sh
+source ../../scripts/common.sh
 
 export LAB_PATH="$PWD/../"
 export LIBLIST_PATH="$LAB_PATH/SYN/lib_container.tcl"
